@@ -1,5 +1,6 @@
 # Bank_fraud_detection_using_SQL
 ![bank fraud](https://github.com/mobolajifalugba/Bank-fraud-detection-using-SQL/assets/51162684/e475a6ed-fe74-4aa9-af5f-61d17fd1cad0)
+
 This project is aimed at leveraging SQL to develop an efficient fraud detection system for the banking industry. Bank fraud is a significant concern, and this project demonstrates how SQL can be a powerful tool for analyzing and identifying fraudulent activities within the financial sector.
 
 ## Table of Contents
